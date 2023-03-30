@@ -1,0 +1,13 @@
+.navbar{
+    background-color: rgb(0, 132, 255);
+    padding: 10px;
+    color: rgb(245, 191, 179);
+    border-radius: 10%;
+}
+
+.activeNavbar{
+    background-color: rgb(255, 0, 13);
+    padding: 10px;
+    color: rgb(179, 245, 196);
+    border-radius: 10%;
+}
